@@ -1,6 +1,6 @@
 # Tetris
 
-One of my first experiences with SDL and C++
+One of my first experiences with SDL and C++ from back in the day when I was learning the language. Thought I'd upload it as a reminder of where I started.
 
 _Juego: Tetris, las piezas caen, si se completa una linea se otorgan 10 puntos, cada 100 puntos aumenta la velocidad a la que caen las piezas (se pasa de nivel). Teclas: izquierda, derecha, y abajo para movimiento (flechas), para girar utilice flecha hacia arriba (gira a la derecha) y Z (gira a la izquierda)_
 
